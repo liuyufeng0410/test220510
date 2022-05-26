@@ -7,5 +7,7 @@ public class Main {
         System.out.println("write your code here!!!.change into master 0526");
         System.out.println("write your code here!!!.change into master 0527");
         System.out.println("write your code here!!!.change into master 0528");
+        System.out.println("write your code here!!!.change into master 0529");
+        System.out.println("write your code here!!!.change into master 0530");
     }
 }

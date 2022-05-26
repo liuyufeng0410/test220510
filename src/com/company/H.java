@@ -9,5 +9,7 @@ public class H {
         System.out.println("HHH4");
         System.out.println("HHH5");
         System.out.println("HHH6");
+        System.out.println("HHH7");
+        System.out.println("HHH8");
     }
 }
