@@ -11,5 +11,7 @@ public class H {
         System.out.println("HHH6");
         System.out.println("HHH7");
         System.out.println("HHH8");
+        System.out.println("HHH9");
+        System.out.println("HHH10");
     }
 }
